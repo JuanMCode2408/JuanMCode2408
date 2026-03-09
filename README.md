@@ -45,7 +45,7 @@ Here are some projects I will be building soon:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanmiguel2408&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanMCode2408&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages
 
