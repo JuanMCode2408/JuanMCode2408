@@ -49,4 +49,4 @@ Here are some projects I will be building soon:
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmiguel2408&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMCode2408&layout=compact&theme=dark)
